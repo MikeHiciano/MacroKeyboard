@@ -1,5 +1,8 @@
 # MacroKeyboard
 
-Proyecto en el cual estare haciendo un teclado macro para agilizar algunas tareas cotidicanas.
+Proyecto en el cual estare haciendo un teclado macro para agilizar algunas tareas cotidicanas; este proyecto lo estare haciendo utilizando el lenguaje de programacion CircuitPython.
 
-este proyecto lo estare haciendo utilizando el lenguaje de programacion CircuitPython.
+# Circuit
+    [pendiente]
+# Software
+    [pendiente]
